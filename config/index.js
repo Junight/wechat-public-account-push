@@ -36,7 +36,7 @@ export const config = {
     LOVE_DATE: "2022-06-22",
     
     //
-    MARRY_DATA:"2021-09-01",
+    MARRY_DATA:"2023-09-01",
    
 
     /** 好文节选 */
