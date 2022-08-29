@@ -10,7 +10,7 @@ export const config = {
     // 模板消息id
     TEMPLATE_ID: "6nD_XR1LFh6ttk6wX3U8kdLzglOuqmOj0njdmPIcPNQ",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: ["olnu46CwBbZGy0Bo_UDSDspDUS14","olnu46GdgruuZ4hRDxiAWXUNv3Ik"],
+    USERS: ["olnu46CwBbZGy0Bo_UDSDspDUS14"],
      
     /**
      * 信息配置
@@ -36,7 +36,7 @@ export const config = {
     LOVE_DATE: "2022-06-22",
     
     //
-    MARRY_DATE:"2021-09-01",
+    MARRY_DATE: "2021-09-01",
    
 
     /** 好文节选 */
