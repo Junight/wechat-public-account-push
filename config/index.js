@@ -8,7 +8,7 @@ export const config = {
     // 公众号APP_SECRET
     APP_SECRET: "52091768540ad96dacc892668433cbb3",
     // 模板消息id
-    TEMPLATE_ID: "-NnF4sNhcFmNbA72Cc3FJcwHg8osQ92SXN9eXNEic2g",
+    TEMPLATE_ID: "6nD_XR1LFh6ttk6wX3U8kdLzglOuqmOj0njdmPIcPNQ",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     USERS: ["olnu46CwBbZGy0Bo_UDSDspDUS14","olnu46GdgruuZ4hRDxiAWXUNv3Ik"],
      
@@ -27,21 +27,23 @@ export const config = {
 
     // 生日，修改名字为对应需要显示的名字, data 仅填月日即可, 请严格按照示例填写
     BIRTHDAYS: [
-      {"name": "媳妇儿", "year": "1995", "date": "11-19"},
+      {"name": "媳妇儿", "year": "1995", "date": "11-19"}
     ],
 
     /** 日期相关 */
 
     // 在一起的日子，格式同上
     LOVE_DATE: "2022-06-22",
+    
+    //
+    MARRY_DATA:"2021-09-01",
    
-
 
     /** 好文节选 */
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: "网络"
+    LITERARY_PREFERENCE: "小说"
 
 
     }
