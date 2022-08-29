@@ -10,7 +10,7 @@ export const config = {
     // 模板消息id
     TEMPLATE_ID: "-NnF4sNhcFmNbA72Cc3FJcwHg8osQ92SXN9eXNEic2g",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: ["olnu46CwBbZGy0Bo_UDSDspDUS14"],
+    USERS: ["olnu46CwBbZGy0Bo_UDSDspDUS14","olnu46GdgruuZ4hRDxiAWXUNv3Ik"],
      
     /**
      * 信息配置
@@ -19,9 +19,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "江苏",
+    PROVINCE: "广东",
     // 所在城市
-    CITY: "扬州",
+    CITY: "深圳",
 
     /** 生日相关 */
 
